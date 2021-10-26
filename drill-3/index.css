@@ -1,0 +1,53 @@
+#container1 {
+    display: flex;
+    align-items: flex-end;
+    height: 120px;
+    width: 1430px;
+    background-color: lightgray;
+}
+
+#smallBox {
+    height: 60px;
+    width: 60px;
+    margin: 30px 30px;
+    background-color: rgb(153, 153, 190);
+}
+
+#container2 {
+    height: 220px;
+    width: 1430px;
+}
+
+#Latin {
+    margin: 40px 30px 15px 30px;
+    font-size: 14px;
+}
+
+#Latin2 {
+    margin: 10px 30px;
+    font-size: 14px
+}
+
+#container3 {
+    height: 190px;
+    width: 1430px;
+    background-color: rgb(153, 153, 190);
+}
+
+#container4 {
+    height: 190px;
+    width: 1430px;
+    background-color: rgb(91, 218, 218);
+}
+
+#container5 {
+    height: 190px;
+    width: 1430px;
+    background-color: rgb(203, 224, 170);
+}
+
+#container6 {
+    height: 190px;
+    width: 1430px;
+    background-color: rgb(252, 234, 132);
+}
